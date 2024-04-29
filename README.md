@@ -1,2 +1,3 @@
-# Livro_de_Receitas-azraeelpt
-Livro_de_Receitas_Maravilhoso
+# Livro_de_Receitas
+
+Livro de Receitas para todos :]
